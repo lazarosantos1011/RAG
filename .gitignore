@@ -1,0 +1,7 @@
+*.wav
+*.pdf
+*.faiss
+*.pkl
+
+# Ignore directories
+__pycache__/
