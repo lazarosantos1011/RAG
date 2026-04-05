@@ -5,3 +5,5 @@
 
 # Ignore directories
 __pycache__/
+data/
+output_audio/

@@ -1,4 +1,4 @@
-MODEL_NAME = "phi3:mini"
+MODEL_NAME = "mistral"
 INDEX_PATH = "indices/indice"
 CHUNK_SIZE = 1000
 CHUNK_OVERLAP = 200
